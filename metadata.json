@@ -1,0 +1,6 @@
+{
+  "name": "Cineva - Ativação IPTV",
+  "description": "Sistema moderno de ativação e teste de IPTV por R$ 1,00 do aplicativo Cineva com PIX instantâneo, verificação de MAC/Device ID e suporte.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
